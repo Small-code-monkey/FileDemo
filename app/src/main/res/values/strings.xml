@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">FileDemo</string>
+
+    <string name="file_name_can_not_to_be_empty">文件名不能为空</string>
+    <string name="file_name_can_not_to_be_repeat">文件名重复，请重新命名</string>
+
+    <string name="rename">重命名</string>
+    <string name="ok">"确定"</string>
+    <string name="file_name">文件名称:</string>
+    <string name="is_delect">是否删除该项？</string>
+    <string name="attribute">属性</string>
+    <string name="paste">粘贴</string>
+    <string name="remove1">移动</string>
+
+    <string name="new_folder">新建文件夹</string>
+    <string name="retrun_root_directory">返回根目录</string>
+    <string name="refresh_load">刷新加载</string>
+    <string name="about1">关于</string>
+    <string name="newly_build">新建</string>
+    <string name="practice">练习</string>
+    <string name="new_folder_name">新建文件夹名：</string>
+    <string name="options">选项</string>
+    <string name="myfile">我的文件</string>
+    <string name="file_size">文件大小:</string>
+    <string name="update_time">修改时间</string>
+    <string name="please_choice_geojson">请选择geojson格式文件</string>
+    <string name="cancel">"取消"</string>
+    <string name="warning">警告</string>
+</resources>
